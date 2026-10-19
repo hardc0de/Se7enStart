@@ -1,0 +1,280 @@
+# Translation of Se7enStart in es
+# Copyright (C) 2023
+# This file is distributed under the same license as the Se7enStart package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Se7enStart\n"
+"Report-Msgid-Bugs-To: https://github.com/hardc0de/Se7enStart"
+"issues\n"
+"POT-Creation-Date: 2026-10-19 18:34+0200\n"
+"PO-Revision-Date: 2026-10-19 18:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contents/config/config.qml:26
+msgid "General"
+msgstr "General"
+
+#: contents/ui/ConfigGeneral.qml:23
+msgid "Icon:"
+msgstr "Ícono:"
+
+#: contents/ui/ConfigGeneral.qml:25 contents/ui/ConfigGeneral.qml:56
+msgid "Choose…"
+msgstr "Elegir…"
+
+#: contents/ui/ConfigGeneral.qml:60
+msgid "Reset Icon"
+msgstr "Restablecer ícono"
+
+#: contents/ui/ConfigGeneral.qml:71
+msgid "Include files and bookmarks in search"
+msgstr "Incluir archivos y marcadores en la búsqueda"
+
+#: contents/ui/ConfigGeneral.qml:75
+msgid "Task manager command:"
+msgstr "Comando del administrador de tareas:"
+
+#: contents/ui/ConfigGeneral.qml:76
+msgid "Task manager command"
+msgstr "Comando del administrador de tareas"
+
+#: contents/ui/ConfigGeneral.qml:79
+msgid "The default tries Mission Center, then Plasma System Monitor."
+msgstr "De forma predeterminada, se intenta iniciar Mission Center y después el Monitor del sistema de Plasma."
+
+#: contents/ui/ItemGridDelegate.qml:135
+msgid "Recent files for %1"
+msgstr "Archivos recientes de %1"
+
+#: contents/ui/MenuContent.qml:494
+msgid "Home"
+msgstr "Inicio"
+
+#: contents/ui/MenuContent.qml:500
+msgid "Documents"
+msgstr "Documentos"
+
+#: contents/ui/MenuContent.qml:506
+msgid "Pictures"
+msgstr "Imágenes"
+
+#: contents/ui/MenuContent.qml:512
+msgid "Music"
+msgstr "Música"
+
+#: contents/ui/MenuContent.qml:518
+msgid "Videos"
+msgstr "Vídeos"
+
+#: contents/ui/MenuContent.qml:524
+msgid "Downloads"
+msgstr "Descargas"
+
+#: contents/ui/MenuContent.qml:554
+msgid "Computer"
+msgstr "Equipo"
+
+#: contents/ui/MenuContent.qml:565
+msgid "Network"
+msgstr "Red"
+
+#: contents/ui/MenuContent.qml:589
+msgid "Settings"
+msgstr "Configuración"
+
+#: contents/ui/MenuContent.qml:600
+msgid "Printers"
+msgstr "Impresoras"
+
+#: contents/ui/MenuContent.qml:611
+msgid "Default Applications"
+msgstr "Aplicaciones predeterminadas"
+
+#: contents/ui/MenuContent.qml:622
+msgid "Task Manager"
+msgstr "Administrador de tareas"
+
+#: contents/ui/MenuContent.qml:633
+msgid "Run Command"
+msgstr "Ejecutar comando"
+
+#: contents/ui/code/tools.js:40
+msgid "Remove from Favorites"
+msgstr "Eliminar de favoritos"
+
+#: contents/ui/code/tools.js:44
+msgid "Add to Favorites"
+msgstr "Agregar a favoritos"
+
+#: contents/ui/code/tools.js:68
+msgid "On All Activities"
+msgstr "En todas las actividades"
+
+#: contents/ui/code/tools.js:118
+msgid "On the Current Activity"
+msgstr "En la actividad actual"
+
+#: contents/ui/code/tools.js:132
+msgid "Show in Favorites"
+msgstr "Mostrar en favoritos"
+
+#: contents/ui/main.qml:164
+msgid "All Programs"
+msgstr "Todos los programas"
+
+#: contents/ui/main.qml:164 contents/ui/main.qml:264
+msgid "Back"
+msgstr "Atrás"
+
+#: contents/ui/main.qml:491
+msgid "Could not start the requested action"
+msgstr "No se pudo iniciar la acción solicitada"
+
+#: contents/ui/main.qml:504
+msgid "The requested program is unavailable or could not be started."
+msgstr "El programa solicitado no está disponible o no se pudo iniciar."
+
+#: contents/ui/main.qml:532
+msgid "Edit Applications…"
+msgstr "Editar aplicaciones…"
+
+#: contents/ui/parts/PersonalPortrait.qml:39
+#: contents/ui/parts/PersonalPortrait.qml:189
+msgid "User Settings"
+msgstr "Configuración del usuario"
+
+#: contents/ui/parts/PersonalPortrait.qml:190
+msgid "Click to open user account settings"
+msgstr "Haga clic para abrir la configuración de la cuenta de usuario"
+
+#: contents/ui/parts/PowerButtons.qml:23 contents/ui/parts/PowerButtons.qml:110
+msgid "Shut Down"
+msgstr "Apagar"
+
+#: contents/ui/parts/PowerButtons.qml:130
+msgid "Power and session actions"
+msgstr "Acciones de energía y sesión"
+
+#: contents/ui/parts/PowerButtons.qml:131
+msgid "Menu expanded"
+msgstr "Menú desplegado"
+
+#: contents/ui/parts/PowerButtons.qml:131
+msgid "Menu collapsed"
+msgstr "Menú contraído"
+
+#: contents/ui/parts/PowerButtons.qml:150
+msgid "Restart"
+msgstr "Reiniciar"
+
+#: contents/ui/parts/PowerButtons.qml:156
+msgid "Turn Off Screen"
+msgstr "Apagar la pantalla"
+
+#: contents/ui/parts/PowerButtons.qml:165
+msgid "Lock Screen"
+msgstr "Bloquear pantalla"
+
+#: contents/ui/parts/PowerButtons.qml:171
+msgid "Sleep"
+msgstr "Suspender"
+
+#: contents/ui/parts/PowerButtons.qml:177
+msgid "Hibernate"
+msgstr "Hibernar"
+
+#: contents/ui/parts/PowerButtons.qml:183
+msgid "Log Out"
+msgstr "Cerrar sesión"
+
+#: contents/ui/parts/SearchBar.qml:61
+msgid "Type here to search…"
+msgstr "Escriba aquí para buscar…"
+
+#: metadata.json
+msgid "A Windows 7-style application launcher for Plasma"
+msgstr "Un lanzador de aplicaciones al estilo de Windows 7 para Plasma"
+
+#~ msgid "Favorites"
+#~ msgstr "Favoritos"
+
+#~ msgid "A configurable launcher menu"
+#~ msgstr "Un menú de lanzador configurable"
+
+#~ msgid "On The Current Activity"
+#~ msgstr "En la actividad actual"
+
+#~ msgid "Show In Favorites"
+#~ msgstr "Mostrar en favoritos"
+
+#~ msgctxt "@item:inmenu Open icon chooser dialog"
+#~ msgid "Choose..."
+#~ msgstr "Elegir..."
+
+#~ msgctxt "@item:inmenu Reset icon to default"
+#~ msgid "Clear Icon"
+#~ msgstr "Restablecer ícono"
+
+#~ msgid "Show favorites first"
+#~ msgstr "Mostrar favoritos primero"
+
+#~ msgid "Menu position"
+#~ msgstr "Posición del menú"
+
+#~ msgid "Default"
+#~ msgstr "Predeterminado"
+
+#~ msgid "Center"
+#~ msgstr "Centro"
+
+#~ msgid "Center bottom"
+#~ msgstr "Centro inferior"
+
+#~ msgid "Show labels in two lines"
+#~ msgstr "Mostrar etiquetas en dos líneas"
+
+#~ msgid "Number of columns"
+#~ msgstr "Número de columnas"
+
+#~ msgid "Number of rows"
+#~ msgstr "Número de filas"
+
+#~ msgid "Unhide all hidden applications"
+#~ msgstr "Mostrar todas las aplicaciones ocultas"
+
+#~ msgid "Unhidden!"
+#~ msgstr "¡Mostrado!"
+
+#~ msgid "Edit Applications..."
+#~ msgstr "Editar aplicaciones..."
+
+#~ msgid "System Preferences"
+#~ msgstr "Preferencias del sistema"
+
+#~ msgid "Leave ..."
+#~ msgstr "Salir ..."
+
+#~ msgid "Hi, "
+#~ msgstr "Hola, "
+
+#~ msgid "Type here to search ..."
+#~ msgstr "Escribe aquí para buscar ..."
+
+#~ msgid "Pinned"
+#~ msgstr "Favoritos"
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "All apps"
+#~ msgstr "Todas las aplicaciones"
+
+#~ msgid "About"
+#~ msgstr "Acerca de"

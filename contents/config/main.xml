@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="icon" type="String"><default>start-here-kde</default></entry>
+    <entry name="useCustomButtonImage" type="Bool"><default>false</default></entry>
+    <entry name="customButtonImage" type="Url"><default></default></entry>
+    <entry name="favoriteApps" type="StringList">
+      <default>preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop</default>
+    </entry>
+    <entry name="favoritesPortedToKAstats" type="Bool"><default>false</default></entry>
+    <entry name="useExtraRunners" type="Bool"><default>true</default></entry>
+    <entry name="extraRunners" type="StringList"><default>bookmarks,baloosearch</default></entry>
+    <entry name="taskManagerCommand" type="String"><default>missioncenter || plasma-systemmonitor</default></entry>
+  </group>
+</kcfg>

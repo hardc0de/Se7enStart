@@ -1,0 +1,320 @@
+# Translation of Se7enStart in ru
+# Copyright (C) 2022
+# This file is distributed under the same license as the Se7enStart package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR..
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Se7enStart\n"
+"Report-Msgid-Bugs-To: https://github.com/hardc0de/Se7enStart"
+"issues\n"
+"POT-Creation-Date: 2026-10-19 18:34+0200\n"
+"PO-Revision-Date: 2026-10-19 18:00+0200\n"
+"Last-Translator: Edward Karate <edward.karate@ya.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contents/config/config.qml:26
+msgid "General"
+msgstr "Общие"
+
+#: contents/ui/ConfigGeneral.qml:23
+msgid "Icon:"
+msgstr "Значок:"
+
+#: contents/ui/ConfigGeneral.qml:25 contents/ui/ConfigGeneral.qml:56
+msgid "Choose…"
+msgstr "Выбрать…"
+
+#: contents/ui/ConfigGeneral.qml:60
+msgid "Reset Icon"
+msgstr "Восстановить значок"
+
+#: contents/ui/ConfigGeneral.qml:71
+msgid "Include files and bookmarks in search"
+msgstr "Включать файлы и закладки в поиск"
+
+#: contents/ui/ConfigGeneral.qml:75
+msgid "Task manager command:"
+msgstr "Команда диспетчера задач:"
+
+#: contents/ui/ConfigGeneral.qml:76
+msgid "Task manager command"
+msgstr "Команда диспетчера задач"
+
+#: contents/ui/ConfigGeneral.qml:79
+msgid "The default tries Mission Center, then Plasma System Monitor."
+msgstr "По умолчанию выполняется попытка запуска Mission Center, затем системного монитора Plasma."
+
+#: contents/ui/ItemGridDelegate.qml:135
+msgid "Recent files for %1"
+msgstr "Последние файлы %1"
+
+#: contents/ui/MenuContent.qml:494
+msgid "Home"
+msgstr "Домашняя папка"
+
+#: contents/ui/MenuContent.qml:500
+msgid "Documents"
+msgstr "Документы"
+
+#: contents/ui/MenuContent.qml:506
+msgid "Pictures"
+msgstr "Изображения"
+
+#: contents/ui/MenuContent.qml:512
+msgid "Music"
+msgstr "Музыка"
+
+#: contents/ui/MenuContent.qml:518
+msgid "Videos"
+msgstr "Видео"
+
+#: contents/ui/MenuContent.qml:524
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: contents/ui/MenuContent.qml:554
+msgid "Computer"
+msgstr "Компьютер"
+
+#: contents/ui/MenuContent.qml:565
+msgid "Network"
+msgstr "Сеть"
+
+#: contents/ui/MenuContent.qml:589
+msgid "Settings"
+msgstr "Параметры"
+
+#: contents/ui/MenuContent.qml:600
+msgid "Printers"
+msgstr "Принтеры"
+
+#: contents/ui/MenuContent.qml:611
+msgid "Default Applications"
+msgstr "Приложения по умолчанию"
+
+#: contents/ui/MenuContent.qml:622
+msgid "Task Manager"
+msgstr "Диспетчер задач"
+
+#: contents/ui/MenuContent.qml:633
+msgid "Run Command"
+msgstr "Выполнить команду"
+
+#: contents/ui/code/tools.js:40
+msgid "Remove from Favorites"
+msgstr "Убрать из избранного"
+
+#: contents/ui/code/tools.js:44
+msgid "Add to Favorites"
+msgstr "Добавить в избранное"
+
+#: contents/ui/code/tools.js:68
+msgid "On All Activities"
+msgstr "Во всех комнатах"
+
+#: contents/ui/code/tools.js:118
+msgid "On the Current Activity"
+msgstr "В текущей комнате"
+
+#: contents/ui/code/tools.js:132
+msgid "Show in Favorites"
+msgstr "Показывать в избранном"
+
+#: contents/ui/main.qml:164
+msgid "All Programs"
+msgstr "Все программы"
+
+#: contents/ui/main.qml:164 contents/ui/main.qml:264
+msgid "Back"
+msgstr "Назад"
+
+#: contents/ui/main.qml:491
+msgid "Could not start the requested action"
+msgstr "Не удалось запустить запрошенное действие"
+
+#: contents/ui/main.qml:504
+msgid "The requested program is unavailable or could not be started."
+msgstr "Запрошенная программа недоступна или не может быть запущена."
+
+#: contents/ui/main.qml:532
+msgid "Edit Applications…"
+msgstr "Редактировать приложения…"
+
+#: contents/ui/parts/PersonalPortrait.qml:39
+#: contents/ui/parts/PersonalPortrait.qml:189
+msgid "User Settings"
+msgstr "Параметры пользователя"
+
+#: contents/ui/parts/PersonalPortrait.qml:190
+msgid "Click to open user account settings"
+msgstr "Нажмите, чтобы открыть параметры учётной записи пользователя"
+
+#: contents/ui/parts/PowerButtons.qml:23 contents/ui/parts/PowerButtons.qml:110
+msgid "Shut Down"
+msgstr "Выключить"
+
+#: contents/ui/parts/PowerButtons.qml:130
+msgid "Power and session actions"
+msgstr "Действия питания и сеанса"
+
+#: contents/ui/parts/PowerButtons.qml:131
+msgid "Menu expanded"
+msgstr "Меню развёрнуто"
+
+#: contents/ui/parts/PowerButtons.qml:131
+msgid "Menu collapsed"
+msgstr "Меню свёрнуто"
+
+#: contents/ui/parts/PowerButtons.qml:150
+msgid "Restart"
+msgstr "Перезагрузить"
+
+#: contents/ui/parts/PowerButtons.qml:156
+msgid "Turn Off Screen"
+msgstr "Выключить экран"
+
+#: contents/ui/parts/PowerButtons.qml:165
+msgid "Lock Screen"
+msgstr "Заблокировать"
+
+#: contents/ui/parts/PowerButtons.qml:171
+msgid "Sleep"
+msgstr "Спящий режим"
+
+#: contents/ui/parts/PowerButtons.qml:177
+msgid "Hibernate"
+msgstr "Гибернация"
+
+#: contents/ui/parts/PowerButtons.qml:183
+msgid "Log Out"
+msgstr "Завершить сеанс"
+
+#: contents/ui/parts/SearchBar.qml:61
+msgid "Type here to search…"
+msgstr "Введите текст для поиска…"
+
+#: metadata.json
+msgid "A Windows 7-style application launcher for Plasma"
+msgstr "Меню запуска приложений в стиле Windows 7 для Plasma"
+
+#~ msgid "Favorites"
+#~ msgstr "Избранное"
+
+#~ msgid "Ditto Menu"
+#~ msgstr "Ditto Menu"
+
+#~ msgid "A configurable launcher menu"
+#~ msgstr "Настраиваемое меню приложений"
+
+#~ msgid "On The Current Activity"
+#~ msgstr "О текущей деятельности"
+
+#~ msgid "Show In Favorites"
+#~ msgstr "Показать в Избранном"
+
+#~ msgctxt "@item:inmenu Open icon chooser dialog"
+#~ msgid "Choose..."
+#~ msgstr "Выбрать..."
+
+#~ msgctxt "@item:inmenu Reset icon to default"
+#~ msgid "Clear Icon"
+#~ msgstr "Очистить значок"
+
+#~ msgid "Show favorites first"
+#~ msgstr "Сначала показать избранное"
+
+#~ msgid "Menu position"
+#~ msgstr "Положение меню"
+
+#~ msgid "Default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Center"
+#~ msgstr "Центр"
+
+#~ msgid "Center bottom"
+#~ msgstr "Снизу по центру"
+
+#~ msgid "Show labels in two lines"
+#~ msgstr "Отображать метки в две строки"
+
+#~ msgid "Number of columns"
+#~ msgstr "Количество колонок"
+
+#~ msgid "Number of rows"
+#~ msgstr "Количество строк"
+
+#~ msgid "Unhide all hidden applications"
+#~ msgstr "Показать все скрытые приложения"
+
+#~ msgid "Unhidden!"
+#~ msgstr "Показаны!"
+
+#~ msgid "Edit Applications..."
+#~ msgstr "Редактировать меню..."
+
+#~ msgid "System Preferences"
+#~ msgstr "Параметры системы"
+
+#~ msgid "User Home"
+#~ msgstr "Домашняя папка"
+
+#~ msgid "Leave ..."
+#~ msgstr "Выход ..."
+
+#~ msgid "Hi, "
+#~ msgstr "Привет, "
+
+#~ msgid "Type here to search ..."
+#~ msgstr "Введите текст для поиска..."
+
+#~ msgid "All apps"
+#~ msgstr "Все приложения"
+
+#~ msgctxt "@action"
+#~ msgid "Lock Screen"
+#~ msgstr "Заблокировать"
+
+#~ msgid "Behavior"
+#~ msgstr "Поведение"
+
+#~ msgid "Show applications as:"
+#~ msgstr "Показывать приложения в виде:"
+
+#~ msgid "Name only"
+#~ msgstr "Только имя"
+
+#~ msgid "Description only"
+#~ msgstr "Только описание"
+
+#~ msgid "Name (Description)"
+#~ msgstr "Имя (Описание)"
+
+#~ msgid "Description (Name)"
+#~ msgstr "Описание (Имя)"
+
+#~ msgid "Menu position:"
+#~ msgstr "Позиция меню"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Expand search to bookmarks, files and emails"
+#~ msgstr "Расширить поиск по закладкам, файлам и почте"
+
+#~ msgid "Show user icon"
+#~ msgstr "Показать иконку пользователя"
+
+#~ msgid "Grid"
+#~ msgstr "Сетка"
+
+#~ msgid "Number of columns in grid"
+#~ msgstr "Количество колонок в сетке"
+
+#~ msgid "Number of rows in grid"
+#~ msgstr "Количество строк в сетке"

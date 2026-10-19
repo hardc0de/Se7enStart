@@ -1,0 +1,298 @@
+# Translation of Se7enStart in nl
+# Copyright (C) 2021
+# This file is distributed under the same license as the Se7enStart package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Se7enStart\n"
+"Report-Msgid-Bugs-To: https://github.com/hardc0de/Se7enStart"
+"issues\n"
+"POT-Creation-Date: 2026-10-19 18:34+0200\n"
+"PO-Revision-Date: 2026-10-19 18:00+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: contents/config/config.qml:26
+msgid "General"
+msgstr "Algemeen"
+
+#: contents/ui/ConfigGeneral.qml:23
+msgid "Icon:"
+msgstr "Pictogram:"
+
+#: contents/ui/ConfigGeneral.qml:25 contents/ui/ConfigGeneral.qml:56
+msgid "Choose…"
+msgstr "Kiezen…"
+
+#: contents/ui/ConfigGeneral.qml:60
+msgid "Reset Icon"
+msgstr "Pictogram herstellen"
+
+#: contents/ui/ConfigGeneral.qml:71
+msgid "Include files and bookmarks in search"
+msgstr "Bestanden en bladwijzers doorzoeken"
+
+#: contents/ui/ConfigGeneral.qml:75
+msgid "Task manager command:"
+msgstr "Opdracht voor taakbeheer:"
+
+#: contents/ui/ConfigGeneral.qml:76
+msgid "Task manager command"
+msgstr "Opdracht voor taakbeheer"
+
+#: contents/ui/ConfigGeneral.qml:79
+msgid "The default tries Mission Center, then Plasma System Monitor."
+msgstr "Standaard wordt eerst Mission Center geprobeerd en daarna Plasma Systeemmonitor."
+
+#: contents/ui/ItemGridDelegate.qml:135
+msgid "Recent files for %1"
+msgstr "Recente bestanden van %1"
+
+#: contents/ui/MenuContent.qml:494
+msgid "Home"
+msgstr "Persoonlijke map"
+
+#: contents/ui/MenuContent.qml:500
+msgid "Documents"
+msgstr "Documenten"
+
+#: contents/ui/MenuContent.qml:506
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+#: contents/ui/MenuContent.qml:512
+msgid "Music"
+msgstr "Muziek"
+
+#: contents/ui/MenuContent.qml:518
+msgid "Videos"
+msgstr "Video’s"
+
+#: contents/ui/MenuContent.qml:524
+msgid "Downloads"
+msgstr "Downloads"
+
+#: contents/ui/MenuContent.qml:554
+msgid "Computer"
+msgstr "Computer"
+
+#: contents/ui/MenuContent.qml:565
+msgid "Network"
+msgstr "Netwerk"
+
+#: contents/ui/MenuContent.qml:589
+msgid "Settings"
+msgstr "Instellingen"
+
+#: contents/ui/MenuContent.qml:600
+msgid "Printers"
+msgstr "Printers"
+
+#: contents/ui/MenuContent.qml:611
+msgid "Default Applications"
+msgstr "Standaardtoepassingen"
+
+#: contents/ui/MenuContent.qml:622
+msgid "Task Manager"
+msgstr "Taakbeheer"
+
+#: contents/ui/MenuContent.qml:633
+msgid "Run Command"
+msgstr "Opdracht uitvoeren"
+
+#: contents/ui/code/tools.js:40
+msgid "Remove from Favorites"
+msgstr "Verwijderen uit favorieten"
+
+#: contents/ui/code/tools.js:44
+msgid "Add to Favorites"
+msgstr "Toevoegen aan favorieten"
+
+#: contents/ui/code/tools.js:68
+msgid "On All Activities"
+msgstr "Op alle activiteiten"
+
+#: contents/ui/code/tools.js:118
+msgid "On the Current Activity"
+msgstr "Op de huidige activiteit"
+
+#: contents/ui/code/tools.js:132
+msgid "Show in Favorites"
+msgstr "Tonen in favorieten"
+
+#: contents/ui/main.qml:164
+msgid "All Programs"
+msgstr "Alle programma’s"
+
+#: contents/ui/main.qml:164 contents/ui/main.qml:264
+msgid "Back"
+msgstr "Terug"
+
+#: contents/ui/main.qml:491
+msgid "Could not start the requested action"
+msgstr "De gevraagde actie kon niet worden gestart"
+
+#: contents/ui/main.qml:504
+msgid "The requested program is unavailable or could not be started."
+msgstr "Het gevraagde programma is niet beschikbaar of kon niet worden gestart."
+
+#: contents/ui/main.qml:532
+msgid "Edit Applications…"
+msgstr "Programma’s bewerken…"
+
+#: contents/ui/parts/PersonalPortrait.qml:39
+#: contents/ui/parts/PersonalPortrait.qml:189
+msgid "User Settings"
+msgstr "Gebruikersinstellingen"
+
+#: contents/ui/parts/PersonalPortrait.qml:190
+msgid "Click to open user account settings"
+msgstr "Klik om de gebruikersaccountinstellingen te openen"
+
+#: contents/ui/parts/PowerButtons.qml:23 contents/ui/parts/PowerButtons.qml:110
+msgid "Shut Down"
+msgstr "Afsluiten"
+
+#: contents/ui/parts/PowerButtons.qml:130
+msgid "Power and session actions"
+msgstr "Energie- en sessieacties"
+
+#: contents/ui/parts/PowerButtons.qml:131
+msgid "Menu expanded"
+msgstr "Menu uitgeklapt"
+
+#: contents/ui/parts/PowerButtons.qml:131
+msgid "Menu collapsed"
+msgstr "Menu ingeklapt"
+
+#: contents/ui/parts/PowerButtons.qml:150
+msgid "Restart"
+msgstr "Opnieuw opstarten"
+
+#: contents/ui/parts/PowerButtons.qml:156
+msgid "Turn Off Screen"
+msgstr "Scherm uitschakelen"
+
+#: contents/ui/parts/PowerButtons.qml:165
+msgid "Lock Screen"
+msgstr "Scherm vergrendelen"
+
+#: contents/ui/parts/PowerButtons.qml:171
+msgid "Sleep"
+msgstr "Slaapstand"
+
+#: contents/ui/parts/PowerButtons.qml:177
+msgid "Hibernate"
+msgstr "Winterslaap"
+
+#: contents/ui/parts/PowerButtons.qml:183
+msgid "Log Out"
+msgstr "Afmelden"
+
+#: contents/ui/parts/SearchBar.qml:61
+msgid "Type here to search…"
+msgstr "Typ hier om te zoeken…"
+
+#: metadata.json
+msgid "A Windows 7-style application launcher for Plasma"
+msgstr "Een programmastarter in Windows 7-stijl voor Plasma"
+
+#~ msgid "Ditto Menu"
+#~ msgstr "Ditto-menu"
+
+#~ msgid "A configurable launcher menu"
+#~ msgstr "Een instelbare programmastarter"
+
+#~ msgid "On The Current Activity"
+#~ msgstr "Op de huidige activiteit"
+
+#~ msgid "Show In Favorites"
+#~ msgstr "Toevoegen aan favorieten"
+
+#~ msgctxt "@item:inmenu Open icon chooser dialog"
+#~ msgid "Choose..."
+#~ msgstr "Kiezen…"
+
+#~ msgctxt "@item:inmenu Reset icon to default"
+#~ msgid "Clear Icon"
+#~ msgstr "Pictogram verwijderen"
+
+#~ msgid "Show favorites first"
+#~ msgstr "Favorieten bovenaan tonen"
+
+#~ msgid "Default"
+#~ msgstr "Standaard"
+
+#~ msgid "Center"
+#~ msgstr "Gecentreerd"
+
+#~ msgid "Center bottom"
+#~ msgstr "Gecentreerd (onderaan)"
+
+#~ msgid "Show labels in two lines"
+#~ msgstr "Labeltekst verdelen over twee regels"
+
+#~ msgid "Unhide all hidden applications"
+#~ msgstr "Alle verborgen programma's zichtbaar maken"
+
+#~ msgid "Unhidden!"
+#~ msgstr "Alles programma's zijn weer zichtbaar!"
+
+#~ msgid "Edit Applications..."
+#~ msgstr "Programma's bewerken…"
+
+#~ msgid "System Preferences"
+#~ msgstr "Systeeminstellingen"
+
+#~ msgctxt "@action"
+#~ msgid "Lock Screen"
+#~ msgstr "Scherm vergrendelen"
+
+#~ msgid "Behavior"
+#~ msgstr "Gedrag"
+
+#~ msgid "Show applications as:"
+#~ msgstr "Programmaweergave:"
+
+#~ msgid "Name only"
+#~ msgstr "Alleen naam"
+
+#~ msgid "Description only"
+#~ msgstr "Alleen beschrijving"
+
+#~ msgid "Name (Description)"
+#~ msgstr "Naam (beschrijving)"
+
+#~ msgid "Description (Name)"
+#~ msgstr "Beschrijving (naam)"
+
+#~ msgid "Menu position:"
+#~ msgstr "Menupositie:"
+
+#~ msgid "Search"
+#~ msgstr "Zoeken"
+
+#~ msgid "Expand search to bookmarks, files and emails"
+#~ msgstr "Ook bladwijzers, bestanden en e-mails doorzoeken"
+
+#~ msgid "Show user icon"
+#~ msgstr "Gebruikersafbeelding tonen"
+
+#~ msgid "Grid"
+#~ msgstr "Rooster"
+
+#~ msgid "Number of columns in grid"
+#~ msgstr "Aantal kolommen op rooster"
+
+#~ msgid "Number of rows in grid"
+#~ msgstr "Aantal rijen op rooster"
+
+#~ msgid "Search ..."
+#~ msgstr "Zoeken…"

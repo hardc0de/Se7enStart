@@ -1,0 +1,31 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "Se7enStart",
+        "Name": "Se7enStart",
+        "Description": "A Windows 7-style application launcher for Plasma",
+        "Category": "Application Launchers",
+        "Icon": "start-here-kde",
+        "License": "GPL-2.0+",
+        "EnabledByDefault": true,
+        "Authors": [
+            {
+                "Name": "Chris Black"
+            }
+        ],
+        "Website": "https://github.com/hardc0de/Se7enStart",
+        "BugReportUrl": "https://github.com/hardc0de/Se7enStart/issues",
+        "Description[es]": "Un lanzador de aplicaciones al estilo de Windows 7 para Plasma",
+        "Description[fr]": "Un lanceur d’applications de style Windows 7 pour Plasma",
+        "Description[ko]": "Plasma용 Windows 7 스타일 프로그램 실행기",
+        "Description[nl]": "Een programmastarter in Windows 7-stijl voor Plasma",
+        "Description[pl]": "Menu uruchamiania aplikacji w stylu Windows 7 dla środowiska Plasma",
+        "Description[pt_BR]": "Um lançador de aplicativos no estilo do Windows 7 para o Plasma",
+        "Description[ru]": "Меню запуска приложений в стиле Windows 7 для Plasma",
+        "Description[tr]": "Plasma için Windows 7 tarzı bir uygulama başlatıcı"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}
